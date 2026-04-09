@@ -26,8 +26,6 @@ layout: default
 
 ## Visual evidence 
 
-*Use the format below to embed images from your assets folder:*
-
 `![Kaleidoscope Sketch](../assets/week-02/kaleidoscope.png)
 
 ## Reflection 
