@@ -15,8 +15,7 @@ layout: default
 *I chose to track my emotions, the situations I was in, and the people I interacted with. I recorded how I felt in different moments, as well as what triggered those emotions, including actions, conversations, or internal thoughts. Each circle in my visualisation represents a person involved in a specific moment, including myself, friends, family, or others. I used colour to distinguish between people, and different coloured lines extending from each circle to represent emotions such as tiredness, happiness, sadness, excitement, or frustration.*
 *Additional visual elements were used to show what triggered each emotion, including actions, spoken words, situations, or my own internal thoughts. I developed a legend to explain this visual system, allowing the drawing to be read and interpreted.*
 
-`!![Emotion Data Drawing](images/emotion-drawing.png)`
-`*Visual Evidence`
+`![Emotion Data Drawing](../assets/week-01/emotion-drawing.png)`
 
 *This experiment made me more aware of how interconnected my emotions are with the people around me and the situations I experience. By tracking my emotions in real time, I noticed patterns in how certain interactions or environments influenced how I felt, which I would not normally reflect on in such detail.*
 
