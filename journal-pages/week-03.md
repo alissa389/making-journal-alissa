@@ -48,7 +48,7 @@ layout: default
 
 *If I had more time, I would further develop this project by integrating real-time personal mood data alongside weather information, allowing both internal and external conditions to influence a single visual system.*
 
-*Unfortunityly it wont allow me to add everything from p5j but ive supplied a few screenshots. here is the link so the live data is acessable*
+*Unfortunately I'm unable to add everything from p5j, but I've supplied a few screenshots. Here is the link so the live data is acessable*
 
 `https://editor.p5js.org/alissa.design/sketches/t4oGJtkLI`
 
