@@ -92,6 +92,7 @@ This experimentation has helped me move forward by giving me a clearer understan
 
 ![Alt text](../assets/week-06/week6.png)
 
+
  ###### testing colours, brush strokes and layering. 
 ### 3. Initial Concept Sketch
 
