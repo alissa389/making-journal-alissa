@@ -87,17 +87,20 @@ layout: default
 ### 2. Technical Skill Building
 *My first priority skill was developing my ability to create layered and abstract visual compositions using Procreate. Since my project aims to transform qualitative data into a kaleidoscope-inspired self-portrait, I needed to explore how colour, shape, symmetry, and layering could communicate information visually.*
 *To develop this skill, I experimented with Procreate's drawing tools, layer functions, and symmetry features. I created several kaleidoscope-inspired patterns and tested how different colours, textures, and overlapping shapes affected the overall composition. I also explored how layers could represent different people or groups within the dataset, allowing multiple perspectives to contribute to a single visual outcome.*
+*Through this process, I learned how layering can create complexity and depth, which aligns with my concept of identity being formed through multiple viewpoints. I also discovered that colour and pattern can communicate emotion and personality traits without relying on written information. Some experiments felt overly decorative, which highlighted the need to ensure that visual decisions remain connected to the collected data rather than aesthetics alone.
+This experimentation has helped me move forward by giving me a clearer understanding of how the final self-portrait might be constructed. It has also revealed new possibilities for representing relationships, repeated traits, and contrasting perspectives through visual patterns and layered compositions.*
 
+### 3. Initial Concept Sketch
+
+*This initial concept sketch explores how a self-portrait could be generated from the perspectives of friends and family. The kaleidoscope structure represents the idea that identity is made up of multiple viewpoints rather than a single fixed image. Each segment has the potential to represent an individual participant, while colours, patterns, and shapes could be influenced by recurring personality traits, emotions, or descriptions collected through the dataset.*
+*At this stage, I am primarily testing the visual language of the project rather than the final data mapping system. Through this experiment, I found that the layered and symmetrical nature of the kaleidoscope creates an interesting metaphor for identity, as repeated responses can strengthen certain areas while contrasting responses can create variation within the pattern.*
+*Moving forward, I want to make the concept more dynamic by exploring how individual responses can directly influence the composition, scale, colour, and complexity of the design. This will help ensure the final outcome is driven by data rather than functioning purely as a decorative visual.*
 
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
+![Alt text](..assets/week-06/week6.png)
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
 ## AI Usage Statement
 
