@@ -37,6 +37,58 @@ layout: default
 ### What draws me to it?
 *I like how the work uses multiple layers of information to build a complex picture of a person or experience. It feels rich and open to interpretation.*
 
+### What specific quality or approach might you carry forward into your own work?
+*I may experiment with layering different responses from friends and family to show how multiple perspectives contribute to a self-portrait.*
+
+### Does the encounter with this reference change or reinforce your current direction?
+*This reinforces the idea that identity cannot be represented through a single viewpoint and encourages me to embrace complexity in my visualisation.*
+
+## Refrence 3
+### What draws you to it?
+*I am interested in the interactive nature of this work and how viewers can engage with the data in different ways.*
+
+### What specific quality or approach might you carry forward into your own work?
+*As my project could be either physical or digital, I am interested in exploring how interaction might allow viewers to uncover different aspects of my identity and relationships.* 
+
+### Does the encounter with this reference change or reinforce your current direction?
+*This expands my thinking beyond a static outcome and makes me consider digital or interactive possibilities.* 
+
+## Reference 4 
+
+### What draws you to it?
+*I like the handcrafted and tactile quality of the work. It feels personal and reflects the uniqueness of the data being represented.*
+
+### What specific quality or approach might you carry forward into your own work?
+*I would like to explore whether a physical outcome could make the project feel more intimate and meaningful, especially since the data comes from people close to me.*
+
+### Does the encounter with this reference change or reinforce your current direction?
+*This makes me more open to creating a physical artefact rather than only considering a screen-based visualisation.* 
+
+## Refrence 5 
+
+### What draws you to it?
+*I am drawn to the way it visualises relationships and connections between people. The network-like structure clearly shows how individuals influence and relate to one another.*
+
+### What specific quality or approach might you carry forward into your own work?
+*I may use connections, clusters, or linking elements to represent how different friends and family members contribute to the overall self-portrait.* 
+
+### Does the encounter with this reference change or reinforce your current direction?
+*This strongly reinforces my project direction because it connects directly to my interest in relationships, emotions, and how people perceive me.* 
+
+### 3.3 What are my next steps?
+*My next step is to further develop the concept and explore how the self-portrait can become more dynamic and engaging. While the kaleidoscope idea provides a strong starting point, I want to investigate how the collected responses can influence the visual outcome in more meaningful ways. For example, repeated personality traits could strengthen certain patterns, while conflicting responses could create distortions or interruptions within the design. I also want to research examples of data humanism, generative design, and personal data visualisations to understand how others have translated qualitative information into visual experiences.*
+*At the same time, I need to refine my data collection process by deciding what questions to ask and how the responses will be organised. Once I have a clearer dataset structure, I can begin experimenting with sketches and prototypes that test different visual approaches. My goal is to create a self-portrait that reflects both the similarities and differences in how others perceive me, while encouraging reflection on whether data can truly represent a person's identity.* 
+
+### 1. Consultation Reflection
+*During my proposal consultation, I received valuable feedback that helped clarify and strengthen my project direction. Initially, I was interested in exploring friendships and social connections through data, focusing on how relationships influence emotions and identity. Through discussion, my lecturer encouraged me to make the project more personal by collecting data from friends and family about how they perceive me and using this information to create a self-portrait. This shifted the project from analysing relationships in general to exploring identity through the perspectives of others.*
+*What I found most useful was the idea that a self-portrait does not need to be based solely on self-reflection. Instead, it can be constructed from multiple viewpoints, revealing similarities, differences, and contradictions in how people see me. The conversation also encouraged me to think more critically about how qualitative data can be transformed into a visual outcome rather than simply represented through conventional charts.*
+*As a result, I plan to be more deliberate in the way I collect and categorise responses. I also want to further develop the visual concept so that the final outcome communicates not only patterns in the data but also the complexity and subjectivity of personal identity.*
+
+### 2. Technical Skill Building
+*My first priority skill was developing my ability to create layered and abstract visual compositions using Procreate. Since my project aims to transform qualitative data into a kaleidoscope-inspired self-portrait, I needed to explore how colour, shape, symmetry, and layering could communicate information visually.*
+*To develop this skill, I experimented with Procreate's drawing tools, layer functions, and symmetry features. I created several kaleidoscope-inspired patterns and tested how different colours, textures, and overlapping shapes affected the overall composition. I also explored how layers could represent different people or groups within the dataset, allowing multiple perspectives to contribute to a single visual outcome.*
+
+
 
 ## Images & Media
 
