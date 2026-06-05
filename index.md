@@ -5,7 +5,11 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+*I'm Alissa, and I'm studying design. I’m interested in visual communication, spatial design, and creative storytelling. I like to see how design can share personal experiences, emotions, and connections between people. I enjoy working with both physical and digital materials, trying out different styles and creative methods to shape my ideas.*
+
+*In DES240, I want to get better at using data, research, and experimentation in my design work. I’m curious about how information can turn into visual results that are interesting and meaningful. During this course, I hope to become more confident in exploring complex ideas through making, and to grow my technical skills and creative process.*
+
+*This journal shows how my projects, experiments, and reflections have developed over the semester. It includes not just the results of my work, but also the challenges, discoveries, and choices that have shaped my path in design.*
 
 ---
 
